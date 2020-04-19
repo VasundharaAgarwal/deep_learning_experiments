@@ -1,0 +1,2 @@
+Title, Year, URL
+Representing Scenes as Neural Radiance Fields for View Synthesis, 2020, https://arxiv.org/pdf/2003.08934.pdf
